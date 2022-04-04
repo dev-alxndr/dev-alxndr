@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-alxndr
+- 👋 Hi, I’m Seungwon Choi (aka. Alexander)
 - 👀 I’m interested in Java, Spring Boot, JPA
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
