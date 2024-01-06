@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seungwon Choi (aka. Alexander)
+- 👋 Hi, I’m Seungwon Choi
 - 👀 I’m interested in Java, Spring Boot, JPA
 - 📫 How to reach me - dev.alxndr@gmail.com
 
